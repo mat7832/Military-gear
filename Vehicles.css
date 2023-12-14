@@ -1,0 +1,78 @@
+.principal
+{
+	margin: 0, auto;
+	background-color: mediumseagreen;
+	width: 2302px;
+	height: 2294px;
+}
+.header
+{
+	width: 2302px;
+	height: 128px;
+	background-color: ;
+}
+.HomePage 
+{
+	background-color: darkolivegreen;
+	width: 387px;
+	height: 96px;
+	text-align: center;
+	font-size: 70px;
+	float: left;
+}
+.Vehicles 
+{
+	background-color: darkseagreen;
+	width: 387px;
+	height: 96px;
+	text-align: Center;
+	font-size: 70px;
+	float: left;
+}
+
+.Equipment
+{
+	background-color: darkolivegreen;
+	width: 387px;
+	height: 96px;
+	text-align: Center;
+	font-size: 70px;
+	float: left;
+}
+.SellAuctions
+{
+	background-color: darkolivegreen;
+	width: 327px;
+	height: 96px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.TandC
+{
+	background-color: darkolivegreen;
+	width: 427px;
+	height: 96px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.blank
+{
+	background-color: darkolivegreen;
+	width: 387px;
+	height: 96px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.Photo
+{
+	width: 2302;
+	height: 854;
+}
+.footer
+{
+	width: 2302;
+	height: 220;
+}

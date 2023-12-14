@@ -1,0 +1,91 @@
+@font-face {
+  font-family: ArmyFont;
+  src: url(army.ttf);
+}
+
+.principal
+{
+	margin: 0, auto;
+	background-color: mediumseagreen;
+	width: 2302px;
+	height: 1000px;
+}
+.header
+{
+	width: 2302px;
+	height: 128px;
+	background-color: ;
+}
+.HomePage 
+{
+	background-color: mediumseagreen;
+	width: 387px;
+	height: 96px;
+	text-align: center;
+	font-size: 70px;
+	float: left;
+	font-family: ArmyFont;
+}
+.Vehicles 
+{
+	background-color: mediumseagreen;
+	width: 387px;
+	height: 96px;
+	text-align: Center;
+	font-size: 70px;
+	float: left;
+	font-family: ArmyFont;
+}
+
+.Equipment
+{
+	background-color: darkolivegreen;
+	width: 387px;
+	height: 96px;
+	text-align: Center;
+	font-size: 70px;
+	float: left;
+	font-family: ArmyFont;
+}
+.SellAuctions
+{
+	background-color: darkseagreen;
+	width: 327px;
+	height: 96px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	font-family: ArmyFont;
+}
+.TandC
+{
+	background-color: darkolivegreen;
+	width: 427px;
+	height: 96px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	font-family: ArmyFont;
+}
+.blank
+{
+	background-color: darkolivegreen;
+	width: 387px;
+	height: 96px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	font-family: ArmyFont;
+}
+.text
+{
+	background-color: darkolivegreen;
+	width: 2302px;
+	height: 350px;
+	text-align: center;
+	font-size: 150px;
+	font-family: ArmyFont;
+}
+
+
+
